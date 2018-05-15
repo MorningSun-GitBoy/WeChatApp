@@ -26,3 +26,12 @@ low-version editor.
      We found the direction ,but I have no time to discripe it.
      我们找到了方向，但是没有足够的时间来完成描述。
 ```
+##
+### 2018.5.15   Tur  @book sward
+```
+     The problem coused by my guss reason.I finish the 
+discription,but found the problem is serious.I am going to solve
+the problem side by side as I design other place.
+     问题确实是由我昨天猜想的原因引起。我完成了描述，但是发现问题有些
+ 棘手。我准备一边继续其他更改，一边逐步修复这一问题。
+```
