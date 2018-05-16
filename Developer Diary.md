@@ -35,3 +35,9 @@ the problem side by side as I design other place.
      问题确实是由我昨天猜想的原因引起。我完成了描述，但是发现问题有些
  棘手。我准备一边继续其他更改，一边逐步修复这一问题。
 ```
+##
+### 2018.5.16   Wed  @book sward
+```
+     Continue descriping , and going to do more.
+     继续对小程序进行描述，并打算做更多事。
+```
