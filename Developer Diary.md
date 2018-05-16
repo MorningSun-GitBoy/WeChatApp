@@ -40,4 +40,7 @@ the problem side by side as I design other place.
 ```
      Continue descriping , and going to do more.
      继续对小程序进行描述，并打算做更多事。
+     I set tabBar,and picture the plant.I will share it to my 
+teammate tomorrow.
+     我设置了“tabBar”，将计划截图。我会在明天将截图发给队友。
 ```
