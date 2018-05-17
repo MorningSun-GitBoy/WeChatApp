@@ -34,5 +34,10 @@ himself,and supervise himself.
 ```
 ##页面配置
 ```
-
+  index        ->用于展示个人信息
+    {
+       
+     }
+  task         ->用于完成主要功能
+  communicate  ->用于实现内置论坛
 ```

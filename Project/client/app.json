@@ -16,14 +16,17 @@
       {
         "pagePath": "pages/task/task",
         "text": "任务"
+         //用于完成主要功能
       },
       {
         "pagePath": "pages/index/index",
         "text": "个人"
+        //用于展示个人信息
       },
       {
         "pagePath": "pages/communicate/communicate",
         "text": "论坛"
+        //用于实现内置论坛
       }
     ]
   }

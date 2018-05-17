@@ -44,3 +44,9 @@ the problem side by side as I design other place.
 teammate tomorrow.
      我设置了“tabBar”，将计划截图。我会在明天将截图发给队友。
 ```
+##
+### 2018.5.17   Thr  @book sward
+```
+     Almost do nothing but learning micro program.
+     几乎除了学习小程序有关知识外，啥也没做。
+```
