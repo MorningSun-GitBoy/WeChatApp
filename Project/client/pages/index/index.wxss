@@ -32,7 +32,7 @@ page {
     color: #007AFF;
 }
 
-.uploader, .tunnel {
+.uploader, .cgi{
     height: auto;
     padding: 0 0 0 40rpx;
     flex-direction: column;
@@ -40,7 +40,7 @@ page {
     box-sizing: border-box;
 }
 
-.uploader-text, .tunnel-text {
+.uploader-text, .cgi-text {
     width: 100%;
     line-height: 52px;
     font-size: 34rpx;
@@ -63,11 +63,11 @@ page {
     height: 360rpx;
 }
 
-.tunnel {
+.cgi {
     padding: 0 0 0 40rpx;
 }
 
-.cgi-message {
+.cgi-text {
     position: relative;
     color: #222;
     display: flex;
@@ -78,7 +78,7 @@ page {
     border-top: 1px solid rgba(0, 0, 0, .1);
 }
 
-.tunnel-text:first-child {
+.cgi-text :first-child {
     border-top: none;
 }
 

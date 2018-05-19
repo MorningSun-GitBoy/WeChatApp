@@ -50,3 +50,13 @@ teammate tomorrow.
      Almost do nothing but learning micro program.
      几乎除了学习小程序有关知识外，啥也没做。
 ```
+##
+### 2018.5.19   Sta  @book sward
+```
+     Learn and do.
+     边学边做。
+     I build the branch callde "try" to save the change to solve
+login problem,and set the page index.
+     我建立了新的分支“尝试”来储存为解决登陆问题发生的更改，而且设置了
+index页。
+```

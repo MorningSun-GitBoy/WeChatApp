@@ -8,7 +8,6 @@
             background-size="cover"
         ></image>
         <view>
-            <button class="login" open-type='getUserInfo'>点击登录</button>
             <text class="userinfo-nickname">{{logged ? userInfo.nickName : '点击登录'}}</text>
             <text class="userinfo-nickname" wx:if="{{logged}}">{{userInfo.lastLoginTime}}</text>
         </view>
@@ -18,6 +17,14 @@
     ></image>
     </view>
     <view class="cgi">
-            <text class="cgi-message">信息面板</text>
+        <view class="cgi-text">
+            <text>信息面板</text>
+        </view>
+        <view class="cgi-text">
+            <text>数据面板</text>
+        </view>
+        <view class="cgi-text">
+            <text>使用指导</text>
+        </view>
     </view>
 </view>
