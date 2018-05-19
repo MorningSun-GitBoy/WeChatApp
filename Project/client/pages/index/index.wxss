@@ -6,7 +6,7 @@ page {
     justify-content: flex-start;
 }
 
-.userinfo, .uploader, .tunnel {
+.userinfo, .radar, .cgi, .tunnel {
     margin-top: 40rpx;
     height: 140rpx;
     width: 100%;
@@ -67,7 +67,7 @@ page {
     padding: 0 0 0 40rpx;
 }
 
-.tunnel-text {
+.cgi-message {
     position: relative;
     color: #222;
     display: flex;
