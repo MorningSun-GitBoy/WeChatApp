@@ -51,6 +51,12 @@ teammate tomorrow.
      几乎除了学习小程序有关知识外，啥也没做。
 ```
 ##
+### 2018.5.18   Fri  @book sward
+```
+     Only descrip the pages expact learning micro program.
+     几乎除了学习小程序有关知识外，只是对页面进行描述。
+```
+##
 ### 2018.5.19   Sta  @book sward
 ```
      Learn and do.
@@ -59,4 +65,14 @@ teammate tomorrow.
 login problem,and set the page index.
      我建立了新的分支“尝试”来储存为解决登陆问题发生的更改，而且设置了
 index页。
+```
+##
+### 2018.5.20   Sun  @book sward
+```
+     The problem of login has been solved.I search the problem 
+on internet,and use a superiors way to solve it . Success.
+     登录问题已解决。我上网搜索该问题，并试着用一位大神的方法解决。结
+果很成功。
+     But the new button is ugly. I shoud beautify the page.
+     但是新的按钮很丑。我应该美化页面。
 ```

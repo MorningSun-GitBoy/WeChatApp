@@ -8,8 +8,11 @@
             background-size="cover"
         ></image>
         <view>
-            <text class="userinfo-nickname">{{logged ? userInfo.nickName : '点击登录'}}</text>
-            <text class="userinfo-nickname" wx:if="{{logged}}">{{userInfo.lastLoginTime}}</text>
+            <text class="userinfo-nickname">{{logged ? userInfo.nickName : ''}}</text>
+            <text></text>
+        </view>
+        <view>
+            <button class="toLogin" bindgetuserinfo='login' open-type='getUserInfo'>点击登录</button>
         </view>
     </view>
     <view class="radar">
@@ -18,13 +21,19 @@
     </view>
     <view class="cgi">
         <view class="cgi-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
             <text>信息面板</text>
+          </navigator>
         </view>
         <view class="cgi-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
             <text>数据面板</text>
+          </navigator>
         </view>
         <view class="cgi-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
             <text>使用指导</text>
+          </navigator>
         </view>
     </view>
 </view>

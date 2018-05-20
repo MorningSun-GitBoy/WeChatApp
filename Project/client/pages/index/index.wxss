@@ -8,7 +8,7 @@ page {
 
 .userinfo, .radar, .cgi, .tunnel {
     margin-top: 40rpx;
-    height: 140rpx;
+    height: 160rpx;
     width: 100%;
     background: #FFF;
     border: 1px solid rgba(0, 0, 0, .1);
@@ -21,15 +21,16 @@ page {
 }
 
 .userinfo-avatar {
-    width: 100rpx;
-    height: 100rpx;
+    width: 120rpx;
+    height: 120rpx;
     margin: 20rpx;
     border-radius: 50%;
 }
 
 .userinfo-nickname {
     font-size: 32rpx;
-    color: #007AFF;
+    color: black;
+    border-radius: 50%
 }
 
 .uploader, .cgi{
@@ -43,7 +44,7 @@ page {
 .uploader-text, .cgi-text {
     width: 100%;
     line-height: 52px;
-    font-size: 34rpx;
+    font-size: 40rpx;
     color: #007AFF;
 }
 
@@ -78,14 +79,13 @@ page {
     border-top: 1px solid rgba(0, 0, 0, .1);
 }
 
-.cgi-text :first-child {
+.cgi-text:first-child {
     border-top: none;
 }
 
-.tunnel-switch {
-    position: absolute;
-    right: 20rpx;
-    top: -2rpx;
+.toLogin {
+     size: mini;
+
 }
 
 .disable {
