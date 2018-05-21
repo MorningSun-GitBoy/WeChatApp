@@ -21,17 +21,17 @@
     </view>
     <view class="cgi">
         <view class="cgi-text">
-          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="navigator-text">
             <text>信息面板</text>
           </navigator>
         </view>
         <view class="cgi-text">
-          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="navigator-text">
             <text>数据面板</text>
           </navigator>
         </view>
         <view class="cgi-text">
-          <navigator url="../addCgi/addCgi" open-type="navigate" class="uploader-text">
+          <navigator url="../addCgi/addCgi" open-type="navigate" class="navigator-text">
             <text>使用指导</text>
           </navigator>
         </view>

@@ -76,3 +76,9 @@ on internet,and use a superiors way to solve it . Success.
      But the new button is ugly. I shoud beautify the page.
      但是新的按钮很丑。我应该美化页面。
 ```
+##
+### 2018.5.21   Mon  @book sward
+```
+     Learning and doing.Increase the icon of tabBar.
+     边学边做。增加了菜单栏的图标。
+```

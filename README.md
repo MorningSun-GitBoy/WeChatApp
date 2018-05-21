@@ -47,6 +47,8 @@ himself,and supervise himself.
     }
   communicate  ->用于实现内置论坛
     {
-       页面安排：（由上至下）
+       页面安排：“求助”“兴趣”两个分页
+                 “求助”：
+                 “兴趣”：
     }
 ```

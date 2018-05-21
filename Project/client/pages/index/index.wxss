@@ -23,8 +23,8 @@ page {
 .userinfo-avatar {
     width: 120rpx;
     height: 120rpx;
-    margin: 20rpx;
-    border-radius: 50%;
+    margin: 40rpx;
+    border-radius: 60%;
 }
 
 .userinfo-nickname {
@@ -33,7 +33,7 @@ page {
     border-radius: 50%
 }
 
-.uploader, .cgi{
+ .cgi{
     height: auto;
     padding: 0 0 0 40rpx;
     flex-direction: column;
@@ -41,11 +41,11 @@ page {
     box-sizing: border-box;
 }
 
-.uploader-text, .cgi-text {
+.navigator-text, .cgi-text {
     width: 100%;
     line-height: 52px;
     font-size: 40rpx;
-    color: #007AFF;
+    color: #605456;
 }
 
 .uploader-container {
