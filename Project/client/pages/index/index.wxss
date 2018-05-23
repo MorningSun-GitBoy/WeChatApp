@@ -27,7 +27,7 @@ page {
     border-radius: 60%;
 }
 
-.userinfo-nickname {
+.userinfo-nickMessage {
     font-size: 32rpx;
     color: black;
     border-radius: 50%

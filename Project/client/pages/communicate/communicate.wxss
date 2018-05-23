@@ -1,0 +1,48 @@
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 2rpx solid #777777;  
+    text-align: center;  
+    line-height: 80rpx;
+}
+.swiper-tab-list{
+    font-size: 35rpx;  
+    display: inline-block;  
+    width: 50%;  
+    color: #777777; 
+}
+.on{ 
+   color: #26B223;  
+   border-bottom: 5rpx solid #26B223;
+}  
+.swiper-box view{  
+    text-align: center;  
+}
+.item{
+    width: 100%;
+    line-height: 52px;
+    margin-top: 20rpx;
+    color: #605456;
+    display: inline-flex;
+}
+.item-input{
+    border: 1px solid #d0d0d0;  
+    border-radius: 20rpx;
+    width: 85%;
+    text-align: center;
+    margin-left: 20rpx;
+    margin-right: 20rpx;
+}
+.about{
+    background: #F6F6F6;
+}
+.list{
+    margin-top: 10rpx;
+    height: 160rpx;
+    width: 100%;
+    background: #FFF;
+    border: 1px solid rgba(0, 0, 0, .1);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transition: all 300ms ease;
+}

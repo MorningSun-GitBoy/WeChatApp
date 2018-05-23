@@ -1,0 +1,16 @@
+<view>
+  <view></view>
+  <view></view>
+</view>
+<view class='major-image'>
+  <image></image>
+  <cover-view>
+    <cover-image></cover-image>
+  </cover-view>
+</view>
+<view class='taskList'>
+  <view class='taskList-top'>
+    <text>任务列表</text>
+    <icon></icon>
+  </view>
+</view>

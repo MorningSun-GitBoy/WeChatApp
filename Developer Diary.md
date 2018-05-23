@@ -82,3 +82,10 @@ on internet,and use a superiors way to solve it . Success.
      Learning and doing.Increase the icon of tabBar.
      边学边做。增加了菜单栏的图标。
 ```
+##
+### 2018.5.23   Wes  @book sward
+```
+     Complete the frame of page "communicate"and"task".Begin to 
+study about backestage.
+     完成了"communicate"和"task"页的框架。开始学习后台知识。
+```

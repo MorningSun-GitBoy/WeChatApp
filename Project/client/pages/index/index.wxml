@@ -8,8 +8,8 @@
             background-size="cover"
         ></image>
         <view>
-            <text class="userinfo-nickname">{{logged ? userInfo.nickName : ''}}</text>
-            <text></text>
+            <text class="userinfo-nickMessage">{{logged ? userInfo.nickName : ''}}</text>
+            <text class="userinfo-nickMessage"></text>
         </view>
         <view>
             <button class="toLogin" bindgetuserinfo='login' open-type='getUserInfo'>点击登录</button>

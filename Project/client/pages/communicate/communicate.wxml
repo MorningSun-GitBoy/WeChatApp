@@ -1,0 +1,29 @@
+<view class="swiper-tab" indicator-dots='true' >  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">求助</view>
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">兴趣</view>  
+</view>
+<swiper current="{{currentTab}}" class="swiper-box" duration="300" style="height:{{winHeight - 31}}px" bindchange="bindChange">  
+    <!-- 求助面板 -->
+    <swiper-item>  
+      <view class='item'>
+        <input class='item-input' placeholder='搜索待解决的问题' value="{{SearchNote}}"></input>
+        <icon class='item-icon' size='20' type='search'></icon>
+      </view>
+      <view class='about'>
+        
+      </view>
+    </swiper-item>  
+    <!-- 兴趣面板 -->  
+    <swiper-item>  
+      <view class='item'>
+        <input class='item-input' placeholder='搜索感兴趣的话题' value="{{SearchNote}}"></input>
+        <icon class='item-icon' size='20' type='search'></icon>
+      </view>
+      <view class='about'>
+        <view class='list' wx:for="{{topicList}}">
+        <text class='list-head'>{{item.head}}</text>
+        <text class='list-content'>{{item.content}}……</text>
+        </view>
+      </view> 
+    </swiper-item>   
+</swiper>  
