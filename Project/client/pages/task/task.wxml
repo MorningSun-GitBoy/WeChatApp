@@ -1,6 +1,8 @@
-<view>
-  <view></view>
-  <view></view>
+<view class='top'>
+  <view class='top-box'>
+   <view class='top-button'></view>
+   <view class='top-button'></view>
+  </view>
 </view>
 <view class='major-image'>
   <image></image>
@@ -12,5 +14,8 @@
   <view class='taskList-top'>
     <text>任务列表</text>
     <icon></icon>
+  </view>
+  <view>
+  
   </view>
 </view>
