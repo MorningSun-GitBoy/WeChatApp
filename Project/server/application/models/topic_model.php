@@ -10,6 +10,6 @@ class topic_model extends CI_Model
 {
     public function getList()
     {
-
+        return DB ::select('t_topic_style',['*']);
     }
 }

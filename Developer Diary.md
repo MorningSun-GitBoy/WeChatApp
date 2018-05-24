@@ -89,3 +89,10 @@ on internet,and use a superiors way to solve it . Success.
 study about backestage.
      完成了"communicate"和"task"页的框架。开始学习后台知识。
 ```
+##
+### 2018.5.24   Thu  @book sward
+```
+     Beautify the page and try to write backestage code.I compeletly
+give up to ask help from my teammate. 
+     美化页面并尝试写后台代码。我彻底放弃了从我的队友处借力。
+```
